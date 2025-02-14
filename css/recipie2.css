@@ -1,0 +1,197 @@
+body{
+    background-color: red;
+}
+
+#header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.history{
+    background-color: white;
+    padding: 5px 10px 5px 10px;
+    width: 350px;
+    height: 650px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#ingredients{
+    background-color: black;
+    padding: 5px 10px 5px 10px;
+    width: 760px;
+    height: 650px;
+    font-size: 16px;
+    color: white;
+    position: absolute;
+    top: 152px;
+    right: 88px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#steps{
+    background-color: black;
+    padding: 5px 2px 5px 2px;
+    width: 1143px;
+    height: 650px;
+    color: white;
+    position: absolute;
+    top: 830px;
+    right: 86px;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.footer{
+    background-color: white;
+    position: absolute;
+    top: 1350px;
+    right: 86px;
+    width: 1143px;
+    height: 100px;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#image{
+    border: 5px solid white;
+    padding: 10px;
+    background-color: red;
+    position: absolute;
+    top: 122px;
+    right: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.content{
+    padding-left: 10px;
+}
+
+.link1{
+    position: absolute;
+    top: 40px;
+    left: 740px;
+}
+
+.link3{
+    position: absolute;
+    top: 40px;
+    right: 100px; 
+}
+
+.link2{
+    position: absolute;
+    top: 40px;
+    right: 460px;
+}
+
+#footerheader{
+    position: absolute;
+    top: 16px;
+    right: 700px;
+}
+
+#video{
+    position: absolute;
+    top: 450px;
+    right: 905px;
+    width: 300px;
+}
+
+.navbar{
+    background-color: #0A2463;
+}
+
+.navbar-brand{
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#FFEDDF;
+}
+
+.opt{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #FFEDDF;
+}
+
+.active{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #FFEDDF;
+}
+
+.dropdown-toggle{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #FFEDDF;
+}
+
+.panel-default{
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFEDDF;
+    border: 1px solid red;
+    position: absolute;
+    top: 1490px;
+    width: 1317px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #0A2463;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-snapchat {
+    background: #fffc00;
+    color: black;
+    position: absolute;
+    top: 10px;
+    right: 15px;
+  }
+  
+  /* Twitter */
+  .fa-instagram {
+    background: #c13584;
+    color: white;
+    position: absolute;
+    right: 80px;
+    top: 10px;
+  }
+
+  .date{
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    position: absolute;
+    top: 55px;
+    left: 10px;
+    color:#FFEDDF
+  }

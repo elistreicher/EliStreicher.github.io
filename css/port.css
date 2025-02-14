@@ -1,0 +1,332 @@
+.navbar{
+    background-color: #0A2463;
+  }
+
+.navbar-brand{
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#FFEDDF;
+}
+
+.jumbotron{
+    background-color: #0A2463;
+    color: #FFEDDF;
+    text-align: center;
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.option{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.active{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.container{
+    background-color:#FFEDDF;
+}
+
+
+#pic{
+    border: 5px solid #7f5112;
+    border-radius: 50%;
+    margin-right: 155px;
+}
+
+.bio{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    position: absolute;
+    right: 109px;
+    top: 300px;
+}
+
+h2{
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFEDDF;
+    text-align: center;
+    background-color: #0A2463;
+}
+
+.abtme{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 15px;
+    color:#FFEDDF;
+    border: 3px solid #7f5112;
+    font-size: 20px;
+    background-color:#0A2463;
+    text-align: justify;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+li{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #FFEDDF;
+}
+
+.hky{
+    border:3px solid #7f5112;
+    width: 75%;
+    border-radius: 50%;
+}
+
+.thingdisc{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 20px;
+    padding: 4px;
+    border: 3px solid #7f5112;
+    border-radius: 15px;
+    background-color:#0A2463;
+    color:#FFEDDF;
+    text-align: center;
+}
+
+.panel-body{
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFEDDF;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #0A2463;
+}
+
+.send{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    padding: 3px;
+    color: #FFEDDF;
+    border: 3px solid #7f5112;
+    border-radius: 15px;
+    font-size: 20px;
+    background-color: #0A2463;
+}
+
+#ftbllink{
+    position: absolute;
+    right: 20px;
+    bottom: -1px;
+}
+
+#hkylink{
+    position: absolute;
+    bottom: 0px;
+    left: 305px;
+}
+
+#rlgnlink{
+    position: absolute;
+    bottom: -4px;
+    left: 337px;
+}
+
+.container{
+    margin-top: -30px;
+}
+
+body{
+    background-color: #FFEDDF;
+}
+
+#hkydisc{
+    font-size: 23px;
+}
+
+#ftbldisc{
+    font-size: 26px;
+}
+
+#rlgndisc{
+    padding: 4px;
+    font-size: 22.5px;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-snapchat {
+    background: #fffc00;
+    color: black;
+    position: absolute;
+    top: 1303px;
+    right: 15px;
+  }
+  
+  /* Twitter */
+  .fa-instagram {
+    background: #c13584;
+    color: white;
+    position: absolute;
+    right: 80px;
+    top: 1303px;
+  }
+
+  .date{
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    position: absolute;
+    top: 1349px;
+    left: 10px;
+    color:#FFEDDF
+  }
+
+#hkypic{
+    border: 5px solid #7f5112;
+    border-radius: 50%;
+    margin-right: 155px;
+}
+
+.hkybio{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    position: absolute;
+    right: 335px;
+    top: 320px; 
+}
+
+.carousel-inner{
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+    justify-content: center;
+}
+
+#hkyabtme{
+    font-size: 23px;
+}
+
+#bsblabtme{
+    font-size: 22px;
+}
+
+.hkyhead{
+    border: 3px solid #7f5112;
+    border-radius: 15px;
+}
+
+.imgtitle{
+    border: 3px solid #7f5112;
+    border-radius: 15px;
+}
+
+#myCarousel{
+    background-color: #FFEDDF;
+}
+
+.photo{
+    position: absolute;
+    right: 320px;
+}
+
+.jewish{
+    position: absolute;
+    right: 320px;
+}
+
+.yellow{
+    top: 1565px;
+}
+
+.purple{
+    top: 1565px;
+}
+
+.date1{
+    top: 1610px;
+}
+
+.chat{
+    top: 1250px;
+}
+
+.post{
+    top: 1250px;
+}
+
+.panel{
+    margin-top: 10px;
+}
+
+.date2{
+    top:1295px;
+}
+
+.date3{
+    position: absolute;
+    top: 1263px;
+    color: #FFEDDF;
+}
+
+.streak{
+    top: 1220px;
+}
+
+.meta{
+    top: 1220px;
+}
+
+.space{
+    border: 3px solid #7f5112;
+    margin-top: 90px;
+}
+
+.jonah{
+    border: 3px solid #7f5112;
+    position: absolute;
+    right: 12px;
+    top: 115px;
+}
+
+.bottompic{
+    border: 3px solid #7f5112;
+    margin-top: 60px;
+}
+
+#myCarousel2{
+    background-color:#FFEDDF;
+}
